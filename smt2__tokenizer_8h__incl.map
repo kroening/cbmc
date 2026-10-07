@@ -1,5 +1,9 @@
 <map id="/home/runner/work/cbmc/cbmc/src/solvers/smt2/smt2_tokenizer.h" name="/home/runner/work/cbmc/cbmc/src/solvers/smt2/smt2_tokenizer.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,189,61"/>
-<area shape="rect" id="node2" title=" " alt="" coords="15,109,89,136"/>
-<area shape="rect" id="node3" title=" " alt="" coords="113,109,172,136"/>
+<area shape="rect" id="Node000001" title="Tokenizer for the SMT&#45;LIB v2.6 syntax." alt="" coords="49,5,233,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,80,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,62,68,101,65,97,109,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,108,179,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,60,144,94,139,94,139,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="203,108,261,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,58,212,96,208,100,167,62"/>
 </map>
